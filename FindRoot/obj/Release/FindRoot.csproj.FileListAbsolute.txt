@@ -1,0 +1,6 @@
+C:\Users\mdhie\Source\Repos\CN\FindRoot\bin\Release\FindRoot.exe
+C:\Users\mdhie\Source\Repos\CN\FindRoot\bin\Release\FindRoot.pdb
+C:\Users\mdhie\Source\Repos\CN\FindRoot\bin\Release\mxparser.dll
+C:\Users\mdhie\Source\Repos\CN\FindRoot\bin\Release\mxparser.pdb
+C:\Users\mdhie\Source\Repos\CN\FindRoot\obj\Release\FindRoot.exe
+C:\Users\mdhie\Source\Repos\CN\FindRoot\obj\Release\FindRoot.pdb
