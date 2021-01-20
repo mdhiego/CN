@@ -1,0 +1,8 @@
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\Integrate\bin\Debug\Integrate.exe
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\Integrate\bin\Debug\Integrate.pdb
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\Integrate\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\Integrate\obj\Debug\Integrate.csprojAssemblyReference.cache
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\Integrate\obj\Debug\Integrate.csproj.CoreCompileInputs.cache
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\Integrate\obj\Debug\Integrate.csproj.CopyComplete
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\Integrate\obj\Debug\Integrate.exe
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\Integrate\obj\Debug\Integrate.pdb

@@ -1,0 +1,8 @@
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\FindRoot\bin\Debug\FindRoot.exe
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\FindRoot\bin\Debug\FindRoot.pdb
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\FindRoot\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\FindRoot\obj\Debug\FindRoot.csprojAssemblyReference.cache
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\FindRoot\obj\Debug\FindRoot.csproj.CoreCompileInputs.cache
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\FindRoot\obj\Debug\FindRoot.csproj.CopyComplete
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\FindRoot\obj\Debug\FindRoot.exe
+C:\Users\mdhiego\Source\Repos\GitHub\mdhiego\NumericalCalculationTools\FindRoot\obj\Debug\FindRoot.pdb
