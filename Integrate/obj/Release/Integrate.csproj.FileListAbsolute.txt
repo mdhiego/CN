@@ -1,6 +1,0 @@
-C:\Users\mdhie\Source\Repos\CN\Integrate\bin\Release\Integrate.exe
-C:\Users\mdhie\Source\Repos\CN\Integrate\bin\Release\Integrate.pdb
-C:\Users\mdhie\Source\Repos\CN\Integrate\bin\Release\mxparser.dll
-C:\Users\mdhie\Source\Repos\CN\Integrate\bin\Release\mxparser.pdb
-C:\Users\mdhie\Source\Repos\CN\Integrate\obj\Release\Integrate.exe
-C:\Users\mdhie\Source\Repos\CN\Integrate\obj\Release\Integrate.pdb
