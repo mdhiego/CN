@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindRoot", "FindRoot\FindRoot.csproj", "{138739A8-1268-488F-9CC6-A3FE3C8CFD9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integrate", "Integrate\Integrate.csproj", "{285BCDCF-48BC-46D0-8F86-777EED601A9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{138739A8-1268-488F-9CC6-A3FE3C8CFD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138739A8-1268-488F-9CC6-A3FE3C8CFD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138739A8-1268-488F-9CC6-A3FE3C8CFD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138739A8-1268-488F-9CC6-A3FE3C8CFD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285BCDCF-48BC-46D0-8F86-777EED601A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285BCDCF-48BC-46D0-8F86-777EED601A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285BCDCF-48BC-46D0-8F86-777EED601A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285BCDCF-48BC-46D0-8F86-777EED601A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F1B8A2D-E153-403F-B28B-CD97BA4D7349}
+	EndGlobalSection
+EndGlobal
